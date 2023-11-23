@@ -41,7 +41,7 @@ export default {
 
 <template>
 <header>
-    <div class="header-contain" >
+    <div class="header-contain container" >
         <div>
             <img src="../assets/img/dc-logo.png" alt="">
         </div>
